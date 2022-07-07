@@ -2,7 +2,7 @@
 I'm Nicole! <br>
 Feel free to contact me on LinkedIn!
 
-- 💻 Jr. Front End Developer 
+- 💻 Jr. Frontend Developer 
 - <a href="https://www.linkedin.com/in/nboghosian/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  
  # Technologies 💻
