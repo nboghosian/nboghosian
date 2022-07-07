@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Nicole! <br>
+I am a Materials Engineer and Master in Materials Science, now transitioning to the development area. Currently studying Computer Science at the Federal University of ABC. <br>
 Feel free to contact me on LinkedIn!
 
 - 💻 Jr. Frontend Developer 
